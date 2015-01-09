@@ -23,6 +23,10 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Helps us see where a branch starts, and how many commits are made on
+	that branch. We also see if we have started a new branch on a 
+	previous commit in the branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
