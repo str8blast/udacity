@@ -9,9 +9,10 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
-	By running git add filename, the file will be added to staging area,
-	waiting to be commited, with, hopefully, a logical change.
+	
+	After running git add file, the file is waiting to be commited.
+	We could compare the change in the file, comparing the change in
+	staging area to working directory, running git diff.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
